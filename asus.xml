@@ -2,5 +2,5 @@
 <manifest>
 <!-- asus devices --> 
   <project name="device_asus_grouper" path="device/asus/grouper" remote="cd" revision="c5.1" />
-  <project name="kernel/asus/grouper" path="kernel/asus/grouper" remote="cd" revision="c5.1" />
+  <project name="kernel_asus_grouper" path="kernel/asus/grouper" remote="cd" revision="c5.1" />
 </manifest>
