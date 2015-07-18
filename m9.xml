@@ -3,6 +3,6 @@
 <!-- htc devices -->
   <project name="cyanogenmod/android_kernel_htc_msm8994" path="kernel/htc/msm8994" remote="github" revision="cm-12.1" />
   <project name="cyanogenmod/android_device_htc_hima-common" path="device/htc/hima-common" remote="github" revision="cm-12.1" />
-  <project name="candy51/device_htc_himaul" path="device/htc/himaul" remote="github" revision="c5.1" />
   <project name="CyanogenMod/android_external_mm-dash" path="external/mm-dash" remote="github" revision="cm-12.1" />
+  <project name="device_htc_himaul" path="device/htc/himaul" remote="cd" revision="c5.1" />
 </manifest>
